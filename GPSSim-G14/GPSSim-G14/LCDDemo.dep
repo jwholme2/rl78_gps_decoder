@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2661885652</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\user_src\queues.c</file>
+      <file>$PROJ_DIR$\user_src\tasks.c</file>
+      <file>$PROJ_DIR$\user_src\RDKRL78_spi.c</file>
+      <file>$PROJ_DIR$\applilet3_src\r_cg_cgc_user.c</file>
+      <file>$PROJ_DIR$\applilet3_src\r_cg_intc_user.c</file>
+      <file>$PROJ_DIR$\applilet3_src\r_cg_it_user.c</file>
+      <file>$PROJ_DIR$\applilet3_src\r_cg_serial_user.c</file>
+      <file>$PROJ_DIR$\applilet3_src\r_cg_cgc.c</file>
+      <file>$PROJ_DIR$\applilet3_src\r_cg_port_user.c</file>
+      <file>$PROJ_DIR$\applilet3_src\r_cg_timer.c</file>
+      <file>$PROJ_DIR$\applilet3_src\r_cg_serial.c</file>
+      <file>$PROJ_DIR$\applilet3_src\r_cg_it.c</file>
+      <file>$PROJ_DIR$\applilet3_src\r_cg_port.c</file>
+      <file>$PROJ_DIR$\applilet3_src\r_cg_intc.c</file>
+      <file>$PROJ_DIR$\applilet3_src\r_cg_timer_user.c</file>
+      <file>$PROJ_DIR$\applilet3_src\r_main.c</file>
+      <file>$PROJ_DIR$\applilet3_src\r_systeminit.c</file>
+      <file>$PROJ_DIR$\RTC\rtc_sched.c</file>
+      <file>$PROJ_DIR$\user_include\queues.h</file>
+      <file>$PROJ_DIR$\applilet3_src\r_cg_userdefine.h</file>
+      <file>$PROJ_DIR$\user_src\gpssim.c</file>
+      <file>$PROJ_DIR$\user_src\lcd.c</file>
+    </outputs>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
